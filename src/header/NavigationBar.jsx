@@ -20,7 +20,7 @@ function NavigationBar() {
                     type="search"
                     placeholder="검색어를 입력하세요"
                     className="me-2"
-                    aria-label="Search"
+                    aria-label="검색"
                   />
           <Button variant="outline-success">Search</Button>
           </Form>
