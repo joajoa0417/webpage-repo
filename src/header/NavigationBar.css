@@ -1,0 +1,7 @@
+.NavigationBar {
+    margin-top: 50px;
+}
+
+.NavigationBar .navbar {
+    background-color: rgb(255, 236, 139) !important;
+}
